@@ -90,7 +90,7 @@ The final segmentation provides a powerful way to view the customer base. The 'V
 
 1.  **Clone the repository:**
     ```bash
-    git clone [<repository-url>](https://github.com/vijaykalore/CustomerLifeTimeValue.git)
+    git clone https://github.com/vijaykalore/CustomerLifeTimeValue.git
     ```
 2.  **Install dependencies:** It's recommended to use a virtual environment.
     ```bash
